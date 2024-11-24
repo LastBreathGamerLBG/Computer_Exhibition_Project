@@ -5,10 +5,10 @@
 
 # Installation 
 
---> Download Python 3.10.0 64/32 bit From Here: <br        >
+--> Download Python 3.10.0 64/32 bit From Here: <br>
         https://www.python.org/downloads/release/python-3100/
 
---> Download Virtual Studio Code From Here: <br        >
+--> Download Virtual Studio Code From Here: <br>
         https://code.visualstudio.com/download
 
 # Project Setup 
@@ -38,10 +38,13 @@ pip install -r requirements.txt
 
 --> Use USB to connect Phone and Desktop:
 
---> Insatll This app on PC: <br        >
+--> Insatll This app on PC: <br>
+<pre>
         https://www.dev47apps.com/droidcam/windows/
+</pre>
 
---> Install This app on Phone : <br        >
+
+--> Install This app on Phone : <br>
         https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN&pli=1
 
 --> Setup: <br>
