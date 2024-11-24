@@ -1,3 +1,9 @@
+
+![USER INTERFACE](https://github.com/user-attachments/assets/0571f543-1f7e-4b9a-a8c6-1127ec1747e5)
+
+
+
+
 # Computer_Exhibition_Project
 Project For Face Recognition & Attendance System 
 
