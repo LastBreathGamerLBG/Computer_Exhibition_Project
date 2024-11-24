@@ -60,9 +60,9 @@ python app.py
 --> Abdul Sami (LBG)
 
 
-*Credit to (sonu275981) for UI code*
-*Credit to (coTeamz) for Backend code*
-*Credit to (chatgpt) for Helping code*
+*Credit to (sonu275981) for UI code* <br>
+*Credit to (coTeamz) for Backend code* <br>
+*Credit to (chatgpt) for Helping code* <br>
 
 -----------------------------------------------------------------------------------------------------
 
