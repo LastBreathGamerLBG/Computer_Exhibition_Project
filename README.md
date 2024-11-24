@@ -59,7 +59,8 @@ python app.py
 
 --> Abdul Sami (LBG)
 
-*Credit to sonu275981 for UI code*
+
+# *Credit to (sonu275981) for UI code*
 
 -----------------------------------------------------------------------------------------------------
 
