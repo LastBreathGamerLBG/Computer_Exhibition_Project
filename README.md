@@ -21,10 +21,42 @@ Project For Face Recognition & Attendance System
 python -m pip install --user virtualenv
 ```
 
--->Create A venv ENV Using Vs Code & Activate it:
+--> Create A venv ENV Using Vs Code & Activate it:
 
 ```
 .venv/Scripts/activate
 ```
+--> Install All Requirements:
+
+```
+pip install -r requirements.txt
+```
+
+# Camera Setup
+
+--> Use USB to connect Phone and Desktop:
+
+--> Install This app on Phone :
+    *link here*
+
+--> *Other stuff*:
+
+# Run Project
+
+--> Make sure you are in venv and run this:
+
+```
+python app.py
+```
+
+--> Open this link on browser:
+    localhost:1000
+
+-----------------------------------------------------------------------------------------------------
+# Repo By 
+
+--> Abdul Sami (LBG)
+
+-----------------------------------------------------------------------------------------------------
 
 
