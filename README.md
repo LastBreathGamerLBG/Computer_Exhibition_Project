@@ -19,7 +19,6 @@ Project For Face Recognition & Attendance System
     
 ```
 python -m pip install --user virtualenv
-
 ```
 
 -->
