@@ -39,9 +39,7 @@ pip install -r requirements.txt
 --> Use USB to connect Phone and Desktop:
 
 --> Insatll This app on PC: <br>
-<pre>
         https://www.dev47apps.com/droidcam/windows/
-</pre>
 
 
 --> Install This app on Phone : <br>
