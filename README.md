@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 --> Use USB to connect Phone and Desktop:
 
---> Install This app on Phone :
+--> Install This app on Phone : <br>
     *link here*
 
---> *Other stuff*:
+--> *Other stuff*: <br>
 
 # Run Project
 
