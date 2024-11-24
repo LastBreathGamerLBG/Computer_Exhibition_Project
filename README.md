@@ -38,10 +38,14 @@ pip install -r requirements.txt
 
 --> Use USB to connect Phone and Desktop:
 
---> Install This app on Phone : <br>
-    *link here*
+--> Insatll This app on PC: <br>
+    https://www.dev47apps.com/droidcam/windows/
 
---> *Other stuff*: <br>
+--> Install This app on Phone : <br>
+    https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN&pli=1
+
+--> Setup: <br>
+    https://stackoverflow.com/questions/54060907/how-do-i-use-my-droidcam-video-feed-via-usb-in-python-for-image-processing-usi
 
 # Run Project
 
