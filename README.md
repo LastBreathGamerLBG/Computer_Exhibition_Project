@@ -17,7 +17,9 @@ Project For Face Recognition & Attendance System
 
 --> Install virtual Env Through python:
     
-```python -m pip install --user virtualenv
+```
+python -m pip install --user virtualenv
+
 ```
 
 -->
