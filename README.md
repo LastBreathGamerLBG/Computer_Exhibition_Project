@@ -60,10 +60,10 @@ python app.py
 --> LBG
 
 
-*Credit to (sonu275981) for UI code* <br>
-*Credit to (coTeamz) for Backend code* <br>
-*Credit to (chatgpt) for Helping* <br>
-*Credit to (Project Members) for Other Stuff* <br>
+- *Credit to (sonu275981) for UI code* <br>
+- *Credit to (coTeamz) for Backend code* <br>
+- *Credit to (chatgpt) for Helping* <br>
+- *Credit to (Project Members) for Other Stuff* <br>
 
 -----------------------------------------------------------------------------------------------------
 
