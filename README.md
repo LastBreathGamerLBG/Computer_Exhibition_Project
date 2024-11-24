@@ -84,13 +84,13 @@ python app.py
 - Ansh (Only Reactions)
 - Aqraba
 - Fabeeya
+- Hira
 
 ## Passive Members
 - Abhinav
 - Amit
 - Rakshit
 - Arshi
-- Hira
 
 ## Unknown Members
 - Hassan
