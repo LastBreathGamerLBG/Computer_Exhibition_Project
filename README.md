@@ -59,6 +59,37 @@ python app.py
 
 --> Abdul Sami (LBG)
 
+*Credit to sonu275981 for UI code*
+
 -----------------------------------------------------------------------------------------------------
+
+# Members 
+
+*Active*
+--> Samarth
+--> Faiq
+--> Abdul
+--> Samar (Only Promotions)
+--> Tabish (Only Toxicity)
+--> Ansh (Only Reactions)
+--> Aqraba
+--> Fabbeya
+
+*Passave*
+--> Abhinav
+--> Amit
+--> Rakshit
+--> Arshi
+--> Hira
+
+*Unknown*
+--> Hassan
+--> Anurag
+
+*Teacher*
+--> Mr. Hitendar Sir
+
+
+
 
 
