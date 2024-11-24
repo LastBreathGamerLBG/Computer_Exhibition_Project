@@ -83,7 +83,7 @@ python app.py
 - Tabish (Only Toxicity)
 - Ansh (Only Reactions)
 - Aqraba
-- Fabbeya
+- Fabeeya
 
 ## Passive Members
 - Abhinav
