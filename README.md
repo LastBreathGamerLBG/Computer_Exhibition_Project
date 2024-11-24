@@ -6,7 +6,10 @@
 # Installation 
 
 --> Download Python 3.10.0 64/32 bit From Here: <br>
+<pre>
         https://www.python.org/downloads/release/python-3100/
+</pre>
+
 
 --> Download Virtual Studio Code From Here: <br>
         https://code.visualstudio.com/download
