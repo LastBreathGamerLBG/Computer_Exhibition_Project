@@ -83,6 +83,7 @@ python app.py
 - Tabish (Only Toxicity)
 - Ansh (Only Reactions)
 - Aqraba
+- Arshi
 - Fabeeya
 - Hira
 
@@ -90,7 +91,6 @@ python app.py
 - Abhinav
 - Amit
 - Rakshit
-- Arshi
 
 ## Unknown Members
 - Hassan
