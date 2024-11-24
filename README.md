@@ -61,6 +61,8 @@ python app.py
 
 
 *Credit to (sonu275981) for UI code*
+*Credit to (coTeamz) for Backend code*
+*Credit to (chatgpt) for Helping code*
 
 -----------------------------------------------------------------------------------------------------
 
