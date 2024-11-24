@@ -78,14 +78,14 @@ python app.py
 ## Active Members
 - Samarth
 - Abdul
-- Tabish (Only Toxicity)
-- Ansh (Only Reactions)
 - Aqraba
 - Arshi
 - Fabeeya
 - Hira
 
 ## Passive Members
+- Tabish
+- Ansh
 - Abhinav
 - Faiq
 - Samar
