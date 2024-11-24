@@ -60,35 +60,36 @@ python app.py
 --> Abdul Sami (LBG)
 
 
-# *Credit to (sonu275981) for UI code*
+*Credit to (sonu275981) for UI code*
 
 -----------------------------------------------------------------------------------------------------
 
 # Members 
 
-*Active*
---> Samarth
---> Faiq
---> Abdul
---> Samar (Only Promotions)
---> Tabish (Only Toxicity)
---> Ansh (Only Reactions)
---> Aqraba
---> Fabbeya
+## Active Members
+- Samarth
+- Faiq
+- Abdul
+- Samar (Only Promotions)
+- Tabish (Only Toxicity)
+- Ansh (Only Reactions)
+- Aqraba
+- Fabbeya
 
-*Passave*
---> Abhinav
---> Amit
---> Rakshit
---> Arshi
---> Hira
+## Passive Members
+- Abhinav
+- Amit
+- Rakshit
+- Arshi
+- Hira
 
-*Unknown*
---> Hassan
---> Anurag
+## Unknown Members
+- Hassan
+- Anurag
 
-*Teacher*
---> Mr. Hitendar Sir
+## Teacher
+- Mr. Hitendar Sir
+
 
 
 
