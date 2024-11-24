@@ -77,9 +77,7 @@ python app.py
 
 ## Active Members
 - Samarth
-- Faiq
 - Abdul
-- Samar (Only Promotions)
 - Tabish (Only Toxicity)
 - Ansh (Only Reactions)
 - Aqraba
@@ -89,6 +87,8 @@ python app.py
 
 ## Passive Members
 - Abhinav
+- Faiq
+- Samar
 - Amit
 - Rakshit
 
